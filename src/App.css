@@ -24,6 +24,12 @@
   color: white;
 }
 
+.clockDays , .clockHours , .clockMinutes , .clockSeconds 
+{
+  display: inline;
+  padding: 15px;
+}
+
 .App-link {
   color: #61dafb;
 }
